@@ -11,17 +11,19 @@ namespace GitHubTest
     {
         public bool Test()
         {
-
-            var countNunmber = 0;
+<<<<<<< HEAD
             var test = 0;
-             while (countNunmber < 3)
-            {
-                countNunmber++;
-            }
-           
             if (test != 0)
             {
                 return false;
+=======
+            var countNunmber = 0;
+            var test = 0;
+
+            while (countNunmber < 3)
+            {
+                countNunmber++;
+>>>>>>> Commit para prueba de Rebase
             }
             return true;
         }
