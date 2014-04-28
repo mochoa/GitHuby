@@ -1,0 +1,5 @@
+C:\Users\mochoa\Documents\GitHuby\GitHubTest\GitHubTest\bin\Debug\GitHubTest.dll
+C:\Users\mochoa\Documents\GitHuby\GitHubTest\GitHubTest\bin\Debug\GitHubTest.pdb
+C:\Users\mochoa\Documents\GitHuby\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csprojResolveAssemblyReference.cache
+C:\Users\mochoa\Documents\GitHuby\GitHubTest\GitHubTest\obj\Debug\GitHubTest.dll
+C:\Users\mochoa\Documents\GitHuby\GitHubTest\GitHubTest\obj\Debug\GitHubTest.pdb
