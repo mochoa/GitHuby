@@ -20,5 +20,11 @@ namespace GitHubTest
             }
             return true;
         }
+
+        public bool Negative()
+        {
+            return false;
+            ;
+        }
     }
 }
